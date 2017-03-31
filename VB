@@ -1,0 +1,4 @@
+public sub test()
+msgbox "Hello world"
+
+end sub
